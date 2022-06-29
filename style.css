@@ -1,9 +1,8 @@
 body {
     margin-left: 50px;
     margin-right: 80px;
-    margin-bottom: 100px;
-
-}
+    margin-bottom: 25px;
+ }
 
 img {
     width: 20%;
@@ -83,13 +82,14 @@ h3, h4 {
 li, p { 
     color: black; 
     font-family: 'Helvetica Neue', sans-serif; 
-    font-size: 14px; 
-    line-height: 24px; 
+    font-size: 14px;
+    line-height: 24px;
     margin: 0 0 24px; 
     text-align: justify; 
     text-justify: inter-word; }
 
-    .column {
-        float: left;
-        width: 50%;
-        }
+
+.column {
+    float: left;
+    width: 50%;
+}
